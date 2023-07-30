@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willm-unr
 - 👀 I’m interested in technical writing
-- 🌱 I’m currently learning The Odin Project
+- 🌱 I’m currently learning on The Odin Project
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me via Discord
 
